@@ -15,6 +15,8 @@
 !篮球
 
 [WORD_GROUPS]
+美伊冲突
+母亲节
 
 [AI模型]
 OpenAI
@@ -38,6 +40,8 @@ Agent
 MCP
 RAG
 AIGC
+美伊冲突
+母亲节
 
 [工具应用]
 Dify
